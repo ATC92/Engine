@@ -1,0 +1,30 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ATC/Documents/Engine/build/Debug/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/_deps/glfw-build/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/_deps/glfw-build/src/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/_deps/glfw-build/docs/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Main/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Game/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/Components/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/Core/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/Inputs/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/Render/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/System/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Code/Utils/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/Components/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/Core/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/Inputs/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/Render/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/System/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/Include/Utils/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/OpenGL/cmake_install.cmake",
+		"/home/ATC/Documents/Engine/build/Debug/src/Engine/OpenGL/Shaders/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
