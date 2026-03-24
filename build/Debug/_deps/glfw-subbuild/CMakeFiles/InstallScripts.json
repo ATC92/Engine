@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/ATC/Documents/Engine/build/Debug/_deps/glfw-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
