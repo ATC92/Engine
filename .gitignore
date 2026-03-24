@@ -1,3 +1,10 @@
+#Ignores everything
 
 build/
-build/Debug
+build/Debug/
+.cache/
+.qwen/
+.vscode/
+.venv/
+bin/
+bin/Debug/
